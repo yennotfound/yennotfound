@@ -6,7 +6,7 @@ I am a passionate IT student at Xavier University, driven by a curiosity for tec
 ## 🚀 About Me
 - 🔭 I'm currently pursuing my Bachelor's Degree in Information Technology at Xavier University.
 - 🌱 I’m currently learning Full Stack Web Development and API creation.
-- 💬 Ask me about ...
+- 💬 Ask me about IT-related things. T^T
 - 📫 How to reach me: <20230028371@my.xu.edu.ph>
 
 ## 💻 Tech Stack
