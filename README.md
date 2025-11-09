@@ -23,5 +23,10 @@ I am a passionate IT student at Xavier University, driven by a curiosity for tec
 - 🔭 I’m currently working on my final API project.
 - 💡 Actively improving problem-solving and coding practices
 
+## ✨ Fun Fact
+- I love reading stories.
+- Was a HUMSS student.
+- *crying on this field jk
+
 
 Thanks for stopping by! 😊  
